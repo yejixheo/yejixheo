@@ -2,6 +2,7 @@
 
 ## 🙋🏻‍♀️ About Me
 ### 🌿 Introduction
+- If everything is under control, you are not moving fast enough!
 - Currently studying [@SSAFY](https://ssafy.com) to become a backend developer<br/>
 현재 SSAFY에서 백엔드 개발자가 되기 위해 공부하고 있습니다.
 - Continuously learning and documenting my progress on my tech blog to ensure rapid and consistent growth<br/>
