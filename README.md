@@ -5,7 +5,7 @@
 - If everything is under control, you are not moving fast enough!
 - Enjoying contemplating ways to reduce inefficiency and increase productivity in work.<br/>
 비효율을 줄이고 업무의 생산성을 높일 수 있는 방법에 대해 고민하는 것을 좋아합니다.
-- Interested in understanding the overall business flow and solving problems to achieve this.
+- Interested in understanding the overall business flow and solving problems to achieve this.<br/>
 전체적인 비즈니스 흐름을 파악하고 문제를 해결하는 데 관심이 많습니다.
 - Have developed the ability to clearly identify business issues based on working experience as a product marketer<br/>
 Product Marketer로서 일한 경험을 토대로, 비즈니스가 당면한 문제를 명확하게 인지하는데 자신 있습니다.
