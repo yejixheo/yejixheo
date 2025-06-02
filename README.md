@@ -22,13 +22,11 @@ I'm software developer with a background in both marketing and backend developme
 
 ### 🌈 Color the Rock (🥇 1st prize [@SSAFY](https://ssafy.com))
 : Real-time communication and workout recording service for bouldering users<br/>
-볼더링 유저를 위한 실시간 소통 및 운동 기록 서비스 
 - Period : Jan 3rd, 2023 - Feb 17th, 2023 (7 weeks)
 - Contributors : 5 people
 
 ### 🏔️ SSANTA (🥇 1st prize [@SSAFY](https://ssafy.com))
 : Mountain information provision and hiking community service for hikers<br/>
-등산객을 위한 산 정보, 등산 모임 커뮤니티 서비스
 - 🔗 Video Link : [SSANTA Demo Video](https://youtu.be/RMSTzdtaR7M)
 - Period : Nov 11th, 2022 - Nov 25th, 2022 (2 weeks)
 - Contributors : 2 people
