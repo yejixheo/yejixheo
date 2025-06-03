@@ -22,6 +22,7 @@ I'm software developer with a background in both marketing and backend developme
 
 ### 🌈 Color the Rock (🥇 1st prize [@SSAFY](https://ssafy.com))
 : Real-time communication and workout recording service for bouldering users<br/>
+- 🔗 Video Link : [Project Overview Video](https://youtu.be/pW4eDTtPMao)
 - Period : Jan 3rd, 2023 - Feb 17th, 2023 (7 weeks)
 - Contributors : 5 people
 
