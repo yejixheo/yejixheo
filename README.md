@@ -37,6 +37,9 @@ I'm software developer with a background in both marketing and backend developme
 - Period : Jul 6th, 2022 - Apr 30th, 2023 (10 months)
 - Completed over 800 hours of full-time, intensive training in full-stack development.
 
+### Korea University
+- Bachelor's degree, Psychology
+
 ## 🛠️ Skills
 ### Languages
 - Java
